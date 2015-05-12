@@ -4,7 +4,7 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-<name>Cloud Prueba</name>
+<name>Encontrando una picada</name>
 <icon src="icon.png" gap:platform="android" gap:density="ldpi" />
 
 <description>
